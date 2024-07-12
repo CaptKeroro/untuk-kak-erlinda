@@ -1,4 +1,4 @@
-document.title = 'Mau gk jadi mantanku?'
+document.title = 'Mau gk jadi pacarku?'
 
 let waktuPutus = 5
 
